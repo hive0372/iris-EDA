@@ -41,8 +41,4 @@ The goal of this project is to **understand the data distribution, visualize fea
 🔥 **Heatmap** → Correlation between features  
 
 
-## 🚀 Code Implementation  
 
-### 🔹 Install Required Libraries  
-```bash
-pip install numpy pandas matplotlib seaborn
